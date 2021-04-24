@@ -1,1 +1,1 @@
-Esta es una prueba
+Esta es una prueba de configuracion como preparacion para el curso de Git y GitHub
